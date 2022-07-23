@@ -1,0 +1,13 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "value": "objeto.value",
+      "rango": "objeto.range",
+      "objet": {
+        "nombre": "subObjeto.nombre",
+        "apellido": "subObjeto.apellido"
+      }
+    }
+  }
+]
